@@ -11,14 +11,15 @@ With this project we aim to analyse the effect of the current health and economi
 Using data from the past 12 years, from the UK Government and the National Census website we examined past recessions, namely the 2008 crisis, and used graphs to visualy represent the trends of the House Market in England and the Westmidlands to help us determine:
 
   **1.What trends have the UK housing prices and sales followed for the past 12 years?**
-  
-   _How has this been affected by the 2008 financial crash and Covid-19?_
+     _How has this been affected by the 2008 financial crash and Covid-19?_
+   
   **2.Where is housing prices and sales volume highest in the UK?**
-    
-    _Using the most recent data from July 2021_
+     _Using the most recent data from July 2021_
+     
  **3.Where is the highest sales volume and house price within the Westmidlands?**
+ 
 **4.How does the Westmidlands compare with the other regions of England when it comes to housing prices and purchase volume?**
-    _A comparison between Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall, Wolverhampton, using the most recent data (July 2021)_
+     _A comparison between Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall, Wolverhampton, using the most recent data (July 2021)_
  
  
 ## Hypotheses and findings put to the test:
