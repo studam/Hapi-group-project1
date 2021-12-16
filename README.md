@@ -12,9 +12,12 @@ Using data from the past 12 years, from the UK Government and the National Censu
 
   **1.What trends have the UK housing prices and sales followed for the past 12 years?
     _How has this been affected by the 2008 financial crash and Covid-19?_
+    
   **2.Where is housing prices and sales volume highest in the UK?
     _Using the most recent data from July 2021_
+    
   **3.Where is the highest sales volume and house price within the Westmidlands?
+  
   **4.How does the Westmidlands compare with the other regions of England when it comes to housing prices and purchase volume?
     _A comparison between Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall, Wolverhampton, using the most recent data (July 2021)_
  
