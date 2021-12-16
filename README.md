@@ -11,7 +11,7 @@ With this project we aim to analyse the effect of the current health and economi
 Using data from the past 12 years, from the UK Government and the National Census website we examined past recessions, namely the 2008 crisis, and used graphs to visualy represent the trends of the House Market in England and the Westmidlands to help us determine:
 
   **1. What trends have the UK housing prices and sales followed for the past 12 years?**
-  	*	_How has this been affected by the 2008 financial crash and Covid-19?_
+  	*	_How have they been affected by the 2008 financial crash and Covid-19?_
    
   **2. Where is housing prices and sales volume highest in the UK?**
   	*	_Using the most recent data from July 2021_
