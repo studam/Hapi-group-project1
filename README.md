@@ -40,8 +40,7 @@ For our datasets we used a collection of data from the _Office for National Stat
 ***Where are housing prices and sales volume highest in the UK***
  <img width="783" alt="image" src="https://user-images.githubusercontent.com/93007493/146652071-c41fee8a-3105-4604-b425-672be117e158.png">
 
-***Where is the highest sales volume and house price within the West Midlands?(July 2021)***
-<img width="521" alt="image" src="https://user-images.githubusercontent.com/93007493/146652192-690de836-7e27-4e6f-9d85-3b210e0c89e5.png">
+***Where is the highest sales volume and house price within the West Midlands?(July 2021)*** <img width="521" alt="image" src="https://user-images.githubusercontent.com/93007493/146652192-690de836-7e27-4e6f-9d85-3b210e0c89e5.png">
 
 ***The West Midlands vs other regions of England: housing prices and purchase volume***
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/93007493/146652204-860dbeec-51e7-49a6-a422-8889bc78f31c.png">
