@@ -36,12 +36,10 @@ For our datasets we used a collection of data from the _Office for National Stat
 
 ***Trends the UK housing market has followed for the past 16 years:***
 <img width="762" alt="image" src="https://user-images.githubusercontent.com/93007493/146652101-47e99ba3-5fab-4ebe-bc3b-8a571c5a9f0a.png">
-
 ***Where are housing prices and sales volume highest in the UK***
  <img width="783" alt="image" src="https://user-images.githubusercontent.com/93007493/146652071-c41fee8a-3105-4604-b425-672be117e158.png">
-
-***Where is the highest sales volume and house price within the West Midlands?(July 2021)*** <img width="521" alt="image" src="https://user-images.githubusercontent.com/93007493/146652192-690de836-7e27-4e6f-9d85-3b210e0c89e5.png">
-
+***Where is the highest sales volume and house price within the West Midlands?(July 2021)*** 
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/93007493/146652192-690de836-7e27-4e6f-9d85-3b210e0c89e5.png">
 ***The West Midlands vs other regions of England: housing prices and purchase volume***
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/93007493/146652204-860dbeec-51e7-49a6-a422-8889bc78f31c.png">
 
@@ -62,10 +60,11 @@ For our datasets we used a collection of data from the _Office for National Stat
 
 ## Graphs to support our findings:
 
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/93007493/146652390-027d68be-89d9-4577-aafe-2063779d130e.png">
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/93007493/146652279-c0d19e9f-87ac-4d71-b56e-704a87b276bc.png">
-
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/93007493/146652286-247f652b-d273-4a75-bddd-3aadeb799572.png">
-
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/93007493/146652404-d266e1ff-c40e-4bdc-b3f1-8c763a300939.png">
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/93007493/146652409-67710234-a583-460a-9e63-4f00c3268aff.png">
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/93007493/146652273-cef75c6b-a70f-4176-be41-437806972e14.png">
 
 
