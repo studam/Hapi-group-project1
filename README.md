@@ -22,7 +22,7 @@ Using data from the past 12 years, from the UK Government and the National Censu
 		*	_A comparison between Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall, Wolverhampton, using the most recent data (July 2021)_
  
  
-## Hypotheses and findings put to the test:
+## Findings:
 
 
 
