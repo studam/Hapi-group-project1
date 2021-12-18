@@ -6,6 +6,9 @@ Crises seem to be an unavoidable part of our global economic system; affecting o
 continuously repeat itself is _the change in housing prices_.
 With this project we aimed to analyse the effect of the current health and economic crisis, the Covid-19 pandemic, in household prices in the UK.
 
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/93007493/146652350-45b251eb-e4ca-41a7-8744-eea573e16cce.png">
+
+
 ## Questions & Data used 
 
 Using data from the past 16 years, from the UK Government and the National Census website we examined past recessions, namely the 2008 crisis, and used graphs to visualy represent the trends of the House Market in England and the Westmidlands to help us determine:
@@ -25,9 +28,9 @@ Using data from the past 16 years, from the UK Government and the National Censu
 
 For our datasets we used a collection of data from the _Office for National Statistics_ and _The UK Government Website_ of the UK housing market starting from 2005, that analyses the average house prices, sales, number of houses and different type of housing, it is divided by country, cities, regions, and counties, and extends until July 2021.
 
-<img width="1150" alt="image" src="https://user-images.githubusercontent.com/93007493/146651956-c3a4fd73-adae-4c90-b138-0b2a6aea6663.png">
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/93007493/146652339-de7aa9bb-7c70-4250-a0fa-cf6a93434984.png">
 
-<img width="899" alt="image" src="https://user-images.githubusercontent.com/93007493/146652018-6fc73031-7fc4-4ebe-8d82-8ea1984ef7c7.png">		
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/93007493/146652343-9d488c5e-dc52-46cb-959c-a90c5040224b.png">
 
 ## Findings
 
